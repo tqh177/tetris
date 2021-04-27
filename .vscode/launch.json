@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AboutFrame",
+            "request": "launch",
+            "mainClass": "view.AboutFrame",
+            "projectName": "GUIprogect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelpFrame",
+            "request": "launch",
+            "mainClass": "view.HelpFrame",
+            "projectName": "GUIprogect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Game",
+            "request": "launch",
+            "mainClass": "controller.Game",
+            "projectName": "GUIprogect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "GUIprogect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "GUIprogect"
+        }
+    ]
+}
